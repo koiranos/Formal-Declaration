@@ -1,0 +1,123 @@
+body{
+  background-color: white;
+}
+
+.full-container{
+  border: solid 1px black;
+  padding: 20px;
+  margin: 0 auto;
+  width: 870px;
+}
+
+.container{
+  padding: 6px 0;
+}
+
+.labels{
+  border-left: solid 1px black;
+  border-right: solid 1px black;
+  padding: 7px 6px;
+}
+
+input{
+  border: none;
+  width: 59em;
+}
+
+.container{
+  border-top: solid 1px black;
+  border-right: solid 1px black;
+}
+
+.last-container{
+  border-bottom: solid 1px black;
+}
+
+#applicant-name, #applicant-surename{
+  width: 25.5em;
+}
+
+#fathers-name, #mothers-name{
+  width: 49.1em
+}
+
+#date-of-birth{
+  width: 50em;
+}
+
+#birth-place{
+  width: 55.5em;
+}
+
+#id-number, #phone-number{
+  width: 22.5em;
+}
+
+#town, #address-name{
+  width: 15.8em;
+}
+
+#address-num, #postal-code{
+  width: 5em;
+}
+
+#fax-number, #email-address{
+  width: 14.5em;
+}
+
+.info-container{
+  border: solid 1px black;
+  margin: 40px 0;
+  text-align: center;
+}
+
+.info-text{
+  padding: 0 8px;
+}
+
+h2, h4, .logo{
+  text-align: center;
+}
+
+h4{
+  margin-top: 0;
+}
+
+h2{
+  margin-bottom: 0;
+}
+
+img{
+  width: 80px;
+  padding-bottom: 30px;
+}
+
+.statement-container{
+  margin-top: 20px;
+}
+
+#statment{
+  font-size: 17px;
+}
+
+.signature{
+  text-align: right
+}
+
+.genderType, .signature-area{
+  margin-right: 40px;
+}
+
+.signature-area{
+margin-top: 60px;
+}
+
+.clarifications{
+  margin: 0 auto;
+  margin-top: 60px;
+  text-align:justify;
+  width: 840px;
+}
+.clarifications p{
+  margin: 0;
+}
